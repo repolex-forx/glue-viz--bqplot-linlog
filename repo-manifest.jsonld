@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/bqplot-linlog/commit/e83e7326a05aade9cede950794b732d9191d5ac9",
       "git:hexsha": "e83e7326a05aade9cede950794b732d9191d5ac9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T02:51:03.000293+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/bqplot-linlog/commit/449a4539bbd02b08761081446b5197766b3c7fcd",
