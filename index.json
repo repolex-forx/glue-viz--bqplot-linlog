@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "bqplot-linlog",
+  "versions": [
+    {
+      "commit": "e83e7326a05aade9cede950794b732d9191d5ac9",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:51:03.000751+00:00"
+    }
+  ]
+}
